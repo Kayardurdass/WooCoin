@@ -2,5 +2,23 @@
   "dependencies": {
     "crypto-js": "^4.1.1",
     "elliptic": "^6.5.4"
-  }
+  },
+  "name": "woocoin",
+  "description": "The WooCoin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayardurdass/Blockchain.git"
+  },
+  "author": "Kayardurdass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayardurdass/Blockchain/issues"
+  },
+  "homepage": "https://github.com/Kayardurdass/Blockchain#readme"
 }
