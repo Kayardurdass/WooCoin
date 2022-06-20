@@ -1,0 +1,31 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "The WooCoin is the best cryptocurrency of all time becaus I created it",
+  "main": "main.js",
+  "dependencies": {
+    "brorand": "^1.1.0",
+    "bn.js": "^4.12.0",
+    "minimalistic-assert": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "inherits": "^2.0.4",
+    "minimalistic-crypto-utils": "^1.0.1",
+    "elliptic": "^6.5.4",
+    "hmac-drbg": "^1.0.1",
+    "hash.js": "^1.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayardurdass/Blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayardurdass/Blockchain/issues"
+  },
+  "homepage": "https://github.com/Kayardurdass/Blockchain#readme"
+}
